@@ -37,5 +37,5 @@ dev = ["pytest", "pytest-asyncio", "httpx"]
 [project.urls]
 Homepage = "https://sulcus.ca"
 Documentation = "https://sulcus.ca/docs"
-Repository = "https://github.com/digitalforgeca/sulcus"
-Issues = "https://github.com/digitalforgeca/sulcus/issues"
+Repository = "https://github.com/digitalforgeca/sulcus-python"
+Issues = "https://github.com/digitalforgeca/sulcus-python/issues"
